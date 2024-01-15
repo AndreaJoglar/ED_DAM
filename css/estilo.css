@@ -1,6 +1,12 @@
 body{
-    background-color: azure;
+    background-color:beige;
 }
 h1{
     background-color:darkorchid;
+    text-align: center;
+}
+
+}
+ul{
+    list-style:none ;
 }
